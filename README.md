@@ -43,4 +43,3 @@ Bebale, N. (2025). ML & AI in Object Detection Research: Evaluation, Deployabili
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 For questions, contact: nayanbebale2003@gmail.com
-```
